@@ -1,2 +1,1 @@
-# super-snake
-creating a repository 
+save means commit 
